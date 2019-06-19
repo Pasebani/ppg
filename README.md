@@ -1,6 +1,6 @@
 # ppg
 You Can With This Script Make Strongest Passwordsssssssssssssss
-# Danger :danger:
+# Danger :shit:
 Please Use This Script with Python 3 
 and You can use This on Windows
 # INSTALL
