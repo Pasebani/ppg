@@ -1,4 +1,4 @@
-# ppg
+# ppg (Pasebani Password Maker :shit:)
 You Can With This Script Make Strongest Passwordsssssssssssssss
 # Danger :shit:
 Please Use This Script with Python 3 
