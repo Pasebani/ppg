@@ -6,4 +6,6 @@ and You can use This on Windows
 # Now Availbale on RUBY :gem:
 # INSTALL
 its So Easy!
-type >> git clone https://github.com/Pasebani/ppg.git
+```bash
+$ git clone https://github.com/Pasebani/ppg.git
+```
