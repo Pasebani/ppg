@@ -1,8 +1,8 @@
 # ppg (Pasebani Password Generator :dancer:)
-You Can With This Script Make Strongest Passwordsssssssssssssss
+You can create with these very cool & Greatest passwords :dancer:
 # Hint :shit:
 Please Use This Script with Python 3 
-and You can use This on Windows
+
 # Now Available on RUBY :gem:
 # INSTALL
 its So Easy!
